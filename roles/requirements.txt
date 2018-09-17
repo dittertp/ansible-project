@@ -1,0 +1,3 @@
+- src: git@github.com:dittertp/ansible-role1.git
+  version: master
+  name: role-eins
